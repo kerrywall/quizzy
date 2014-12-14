@@ -52,5 +52,5 @@ $('document').ready(function() {
 });
 
 $('li').on('click', function(e) {
-		quiz.engine(e);
+	quiz.engine(e);
 });
